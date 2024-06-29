@@ -1,0 +1,6 @@
+D:\Dev\MotaData\src\main\java\com\dev\queue\configuration\RabbitMQConfig.java
+D:\Dev\MotaData\src\main\java\com\dev\queue\controller\DataSendController.java
+D:\Dev\MotaData\src\main\java\com\dev\queue\listener\RabbitMQListener.java
+D:\Dev\MotaData\src\main\java\com\dev\queue\model\Book.java
+D:\Dev\MotaData\src\main\java\com\dev\queue\QueueApplication.java
+D:\Dev\MotaData\src\main\java\com\dev\queue\utils\CommonUtils.java
